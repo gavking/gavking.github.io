@@ -1,5 +1,5 @@
 Links
-[Linux](https://github.com/gavking/gavking.github.io/Linux/)
+[Linux](/Linux/)
 
 ## Welcome to GitHub Pages
 
